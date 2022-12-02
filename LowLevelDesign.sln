@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitOrderBook", "Questions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionsConsole", "QuestionsConsole\QuestionsConsole.csproj", "{BBE425DF-EFAE-4D52-B4D4-F8E68809AEE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowLevelDesign.Tests", "LowLevelDesign.Tests\LowLevelDesign.Tests.csproj", "{E043FD34-E6D8-491A-B61F-BB45A6432CA0}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +76,18 @@ Global
 		{BBE425DF-EFAE-4D52-B4D4-F8E68809AEE8}.Release|x64.Build.0 = Release|Any CPU
 		{BBE425DF-EFAE-4D52-B4D4-F8E68809AEE8}.Release|x86.ActiveCfg = Release|Any CPU
 		{BBE425DF-EFAE-4D52-B4D4-F8E68809AEE8}.Release|x86.Build.0 = Release|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Debug|x64.Build.0 = Debug|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Debug|x86.Build.0 = Debug|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Release|x64.ActiveCfg = Release|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Release|x64.Build.0 = Release|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Release|x86.ActiveCfg = Release|Any CPU
+		{E043FD34-E6D8-491A-B61F-BB45A6432CA0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E6B33DC6-7CBC-4A72-B7AE-045B2923BB59} = {3E4FF539-B5B9-4D41-B68B-7C593EF5F073}

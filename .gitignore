@@ -6,3 +6,9 @@ Questions/LimitOrderBook/obj
 .vscode/launch.json
 .vscode/tasks.json
 Questions/LimitOrderBook/bin
+
+.fake
+LowLevelDesign.Tests/bin
+LowLevelDesign.Tests/obj
+Questions/Elevator/bin
+Questions/ParkingLot/bin
